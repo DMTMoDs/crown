@@ -1,4 +1,3 @@
--- LUAOBF-I5I3 | Obfuscated Lua script | 2026-11-01
 local function _d6vpr5(b,k)
   local n=#k
   if n==0 then return "" end
